@@ -10,8 +10,13 @@ namespace ToDoList.Controllers
     public ActionResult Index()
     {
       Item starterItem = new Item("Add first item to To Do List");
-      return View(starterItem)
+      return View(starterItem);
     }
 
+    [Route("/items/new")]
+    public ActionResult CreateForm()
+    {
+      return View();
+    }
   }
 }
