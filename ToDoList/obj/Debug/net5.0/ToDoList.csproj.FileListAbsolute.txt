@@ -31,3 +31,4 @@
 /Users/hr/code/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.csproj.CopyComplete
 /Users/hr/code/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Items/CreateForm.cshtml.g.cs
 /Users/hr/code/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Items/Index.cshtml.g.cs
+/Users/hr/code/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Items/DeleteAll.cshtml.g.cs
