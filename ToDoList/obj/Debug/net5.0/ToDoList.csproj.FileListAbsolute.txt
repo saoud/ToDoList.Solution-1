@@ -29,9 +29,9 @@
 /Users/hr/code/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.Views.pdb
 /Users/hr/code/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.genruntimeconfig.cache
 /Users/hr/code/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.csproj.CopyComplete
-/Users/hr/code/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Items/Index.cshtml.g.cs
 /Users/hr/code/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Items/DeleteAll.cshtml.g.cs
 /Users/hr/code/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Items/Show.cshtml.g.cs
 /Users/hr/code/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Categories/Index.cshtml.g.cs
 /Users/hr/code/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Categories/Show.cshtml.g.cs
 /Users/hr/code/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Categories/New.cshtml.g.cs
+/Users/hr/code/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Items/New.cshtml.g.cs
