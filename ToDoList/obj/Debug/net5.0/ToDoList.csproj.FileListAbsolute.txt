@@ -35,3 +35,4 @@
 /Users/hr/code/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Categories/Show.cshtml.g.cs
 /Users/hr/code/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Categories/New.cshtml.g.cs
 /Users/hr/code/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Items/New.cshtml.g.cs
+/Users/hr/code/ToDoList.Solution/ToDoList/obj/Debug/net5.0/Razor/Views/Home/FavoritePhotos.cshtml.g.cs
